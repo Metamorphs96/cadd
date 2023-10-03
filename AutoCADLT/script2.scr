@@ -1,0 +1,6 @@
+OPEN "test2023.dwg"
+ZOOM E
+QSAVE
+CLOSE
+QUIT
+
