@@ -1,1 +1,1 @@
-"C:\Program Files (x86)\ProgeCAD\progeCAD 2016 Professional ENG\icad.exe" /b %1
+"C:\Program Files\Autodesk\AutoCAD LT 2000\aclt.exe" /b %1
