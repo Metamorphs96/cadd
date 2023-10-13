@@ -1,7 +1,7 @@
 # cadd
-Experiments with CADD Systems. In particular experiments with AutoCAD LT command scripts
-Alone examples of using IntelliCAD Lisp and COM automation
-IntelliCAD Lisp typically requires little change to run in AutoLISP
+Experiments with CADD Systems. In particular experiments with AutoCAD LT command scripts. 
+Along with examples of using IntelliCAD Lisp and COM automation.
+IntelliCAD Lisp typically requires little change to run in AutoLISP.
 The ActiveX/COM/.Net Object models are not the same and significant amount of modification is needed to convert to run in AutoCAD.
 
 # Automation, Drawing Creation
