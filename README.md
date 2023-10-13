@@ -15,7 +15,7 @@ Data extraction of the primary tables sysvars, linetypes, text styles, dimension
 # Interaction
 If objective is interaction, then need to customise menus and toolbars/ribbons with command macros, which can pause, and otherwise the use of DIESEL macros. If want to do more then would need AutoLISP or ActiveX/COM/.NET or other application program interface (API).
 
-#Conclusion
+# Conclusion
 A lot of AutoLISP programs were written because AutoLISP was available, and the author could use, not because such language was required to automatically accomplish a task in AutoCAD. So if you are an AutoCAD LT user then need to think more carefully about requirements than leap to conclusion not possible because don't have AutoLISP.
 
 As for inclusion of AutoLISP in AutoCAD LT 2024, no real benefit if needs are drawing creation and data extraction. If requirement is interaction with the drawing editor, then it is probably more important to ask the question: is AutoCAD the appropriate technology in the first place?
