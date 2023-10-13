@@ -10,7 +10,7 @@ Note there is typically no need for AutoLISP. Unlike other CAD programs, AutoCAD
 Note that here automation is not considered to include enhancements or augmentation of actvity in the drawing editor. 
 
 # Data Extraction
-Data extraction of the primary tables sysvars, linetypes, text styles, dimension styles, view, UCS, viewports, in typically possible from the command line. Block attributes can be extracted using ATTEXT and a template. Entity data can be extracted by exporting a DXF file, and given the availability of open source, chances are there is a suitable library available. Though for many requirements only a simple parser is required not a full parser, just write to extract that which is needed and ignore the rest.
+Data extraction of the primary tables sysvars, linetypes, text styles, dimension styles, view, UCS, viewports, is typically possible from the command line. Block attributes can be extracted using ATTEXT and a template. Entity data can be extracted by exporting a DXF file, and given the availability of open source, chances are there is a suitable library available. Though for many requirements only a simple parser is required not a full parser, just write to extract that which is needed and ignore the rest.
 
 # Interaction
 If objective is interaction, then need to customise menus and toolbars/ribbons with command macros, which can pause, and otherwise the use of DIESEL macros. If want to do more then would need AutoLISP or ActiveX/COM/.NET or other application program interface (API).
