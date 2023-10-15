@@ -24,5 +24,5 @@ End Sub
 
 Sub zoomExtents(fp)
 	Wscript.Echo "zoomExtents: Not supported by LibreCAD command line"
-	'fp.WriteLine("ZOOM E"
+	'fp.WriteLine("ZOOM E")
 End Sub
