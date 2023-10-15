@@ -1,0 +1,4 @@
+import subprocess
+result = subprocess.run("calc.exe")
+result = subprocess.run("C:\Program Files (x86)\ProgeCAD\progeCAD 2016 Professional ENG\icad.exe")
+

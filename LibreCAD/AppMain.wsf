@@ -1,0 +1,26 @@
+<job id="caddToolBox">
+
+<script language="VBScript" src="ErrorHandlers.vbs"/>
+<script language="VBScript" src="geometry.vbs"/>
+<script language="VBScript" src="lcscript.vbs"/>
+<script language="VBScript" src="caddTools.vbs"/>
+<script language="VBScript" src="MkScript01.vbs"/>
+<script language="VBScript" src="MkScript02.vbs"/>
+<script language="VBScript" src="cliMain.vbs"/>
+
+
+<script language="VBScript">
+'------------------------------------------------------------------------------  
+'MAIN
+'------------------------------------------------------------------------------
+
+
+CmdMain
+
+
+'==============================================================================
+
+'END MAIN
+'==============================================================================
+</script>
+</job> 
